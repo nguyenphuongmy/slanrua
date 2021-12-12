@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	margin-left: 0 !important ;
+}
+.menu{
+	width: 100%;
+	
+}
+.menu img{
+   padding-left: 2%;
+}
+.main01 video{
+	margin-top: 1%;
+}
+.main02{
+	background-color: #F5E1CD;
+}
+.f1{
+	padding-top: 10%;
+	padding-left: 2%;
+}
+.anh01{
+	padding: 3% 2% 3% 2%;
+}
+.main03{
+	margin-top: 3%;
+	background-image: linear-gradient(to right, #F3BDBE, #F5E1CD);
+}
+.main03 h1{
+	margin-top: 3%!important;
+}
+.f01{
+	margin-top: 10%;
+	background: #A09A9A;
+	height: 250px;
+}
+.ha1{
+	padding: 2%;
+}
